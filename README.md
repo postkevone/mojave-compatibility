@@ -1,5 +1,5 @@
 # mojave-compatibility
-Apps that dropped compatibility with Mojave 10.14.6
+Apps which dropped support for Mac OSX 10.14 and their latest compatible version
 
 |  App name  |  Latest compatible version  | Source
 | ---- | ---- | ---- |
