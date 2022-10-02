@@ -1,5 +1,5 @@
 # mojave-compatibility
-List of famous app versions that can run on MacOS Mojave 10.14.6
+Apps that dropped compatibility with Mojave 10.14.6
 
 |  App name  |  Latest compatible version  | Source
 | ---- | ---- | ---- |
